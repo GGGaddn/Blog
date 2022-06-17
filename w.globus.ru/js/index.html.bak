@@ -1,0 +1,910 @@
+
+<!DOCTYPE HTML>
+<html lang="RU">
+
+<head>
+    <meta charset="UTF-8">
+  <title>Back Magic - Тренажер для спины</title>
+  <meta name="description" content="Описание страницы" />
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/file/папка/Landing/images/favicon-32x32.png"/>
+  <link rel="icon" type="image/png" sizes="96x96" href="/file/папка/Landing/images/favicon-96x96.png"/>
+  <link rel="icon" type="image/png" sizes="16x16" href="/file/папка/Landing/images/favicon-16x16.png"/>
+  
+  <link rel="stylesheet" type="text/css" href="files/css/reset.css">
+  <link rel="stylesheet" type="text/css" href="files/css/AvenirNextCyr.css">
+  <link rel="stylesheet" type="text/css" href="files/css/owl.carousel.min.css">
+  <link rel="stylesheet" type="text/css" href="files/css/styles.css">
+
+  <script type="text/javascript" src="/js/jquery-1.10.2.js"></script>
+  <script type="text/javascript" src="/js/date_random.2.05.js"></script>
+  <script type="text/javascript" src="/js/jquery.blockUI.min.js"></script>
+  <script type="text/javascript" src="/js/promo_widgets_v2.js?v=20"></script>
+  <link type="text/css" rel="stylesheet" href="/css/promo_v2.css?v=20">
+  <script type="text/javascript" src="/js/promo_v3.js?v=20"></script>
+  
+  <script src="/inputmask_4_x/jquery.inputmask.bundle.min.js"></script>
+  <script type="text/javascript" src="/js/localization/rus.js?v=13"></script>
+  <a href="?next_order_page=1" class="pl_next_order_page replace_ignoring">Следующая страничка</a>
+
+  
+</head>
+
+<body>
+<!-- header 3 -->
+        <header class="offer_section offer3">
+            <div class="title_block">
+                <h1 class="main_title">Back Magic</h1>
+                <p class="subtitle">Тренажер для спины</p>
+            </div>
+            <!-- <div class="timer_block clearfix">
+				<p>Это предложение закончится через:</p>
+				<div class="timer clearfix">
+					<div class="timer_item">
+						<div class="text">дней</div>
+						<div class="count">00</div>
+					</div>
+					<div class="timer_item">
+						<div class="text">часов</div>
+						<div class="count hours"></div>
+					</div>
+					<div class="timer_item">
+						<div class="text">минут</div>
+						<div class="count minutes"></div>
+					</div>
+					<div class="timer_item">
+						<div class="text">секунд</div>
+						<div class="count seconds"></div>
+					</div>
+				</div>
+			</div> -->  
+    <script>
+        window.current_country = 'kz';
+        $(function(){
+            $('body').lFunctions({"p_comeback_form":"callme","p_vv":false,"p_vv_sex":"all","p_vv_slow":"5","p_vv_count":"on","p_vv_count_index":"1","p_vv_order":"on","p_vv_order_index":"5","p_vv_callback":"on","p_vv_callback_index":"1","p_unload_button":false,"p_unload_delay":"5","p_limit_left":"60","p_contactless_delivery":false,"p_contactless_delivery_type":"green_static","price":6990,"is_preview":false,"script_is_active":true,"is_universal":false,"is_mobile":false,"is_adaptive":true,"is_one_rub":false,"is_free":true,"special_price":0,"p_special_price":0,"next_url":null,"in_frame":false,"protocol":"https","cyr_city":"\u0421\u0430\u043c\u0430\u0440\u0430","web_counters":[],"clean_domain":"f.aktifish.ru","s_ym":null,"s_ga":null,"s_page":"landing","s_country":"kz","country":"ru","s_avaliable_countries":["kz"],"s_language":"rus","s_currency":"KZT","s_resolution_id":"3","s_page_visited":true,"s_collected":true,"is_subscribe":true,"comebacker_allowed":true,"version":"2.08"});
+        });
+    </script>
+
+	<style>*{outline:none}body{position:relative;-webkit-animation-name:example;-webkit-animation-duration:1.2s;animation-name:example;animation-duration:1.2s}@-webkit-keyframes example{0%{opacity:0}25%{opacity:0}50%{opacity:0}75%{opacity:.9}100%{opacity:1}}@keyframes example{0%{opacity:0}25%{opacity:0}50%{opacity:0}75%{opacity:.9}100%{opacity:1}}@-moz-document url-prefix(){select{-webkit-text-indent:-2px;-moz-text-indent:-2px;text-indent:-2px}}.corona-wrapper-close{font-family:monospace,sans-serif}.cookie-popup{padding:4px 30px 4px 10px!important}#kmacb,.show-message__item,.show-message__item-first{z-index:99999!important}@media screen and (max-width:1170px){.cookie-popup{padding:4px 10px!important}}@media screen and (max-width:767px){#kmacb{right:10px!important}}@media screen and (max-width:479px){.corona-wrapper{padding:5px 14% 5px 5px!important}}</style>
+
+  <header class="main-head bg-dark">
+    <div class="container">
+      <div class="top-line">
+        <div class="logo wow fadeInDown">
+          <img src="/landing_file/aktifishKz/Landing_1/images/" alt="" class="logo__pic">
+        </div>
+      </div>
+      <div class="main-content">
+        <div class="main-product">
+          <img src="/landing_file/aktifishKz/Landing_1/images/offer__image.jpg" alt="" class="main-product__man">
+        </div>
+        <!-- /.advantages -->
+        <div class="wrap-form wow fadeInDown" data-wow-delay="0.1s">
+          <form action="" class="form order_form" method="post">
+            <!-- <div class="sale">-0<span class="sale__persent">%</span></div> -->
+            <!-- /.sale -->
+            <p class="form__desc">Успейте получить<br> до конца предложения</span></p>
+            <div class="only-today">
+                <div class="only-today__title">
+                    <div class="only-today__subtitle">Последний день!</div>
+                    <div class="only-today__date"><span class="nowdate" daysint></span></div>
+                </div>
+                <div class="only-today__price">
+                    <span class="only-today__price-label">по акции:</span>
+                    <div class="bespl">БЕСПЛАТНО</div>
+                </div>
+            </div>
+            <!-- /.price -->
+            <p class="form__second-desc">Осталось <span class="pack_count main-color p_limit_left_text">60</span> упаковок</p>
+            
+            <label class="default-input default-input_country">
+              <select name="order[country]" class="default-input__input country_select">
+
+            <option value='kz'>Казахстан</option>
+
+            </select>
+            </label>
+            
+            <label class="default-input default-input_name">
+              <input type="text" name="order[fio]" placeholder="Мое имя" class="default-input__input">
+            </label>
+            
+            <label class="default-input default-input_phone">
+              <input type="tel" name="order[phone]" placeholder="Мой телефон" required class="default-input__input">
+            </label>
+
+            <button type="submit" class="btn" onclick="$(this).closest('form').submit();return false;">Получить <small class="btn__small">бесплатно</small></button>
+            <p class="form__footnote">*при оформлении заказа</p>
+
+            <input type="hidden" name="order[specifications]" value="" />
+            <input type="hidden" name="order[discount]" value="" />
+            <input type="checkbox" name="order[address_info]" class="pl_field_address_info">
+            <input type="hidden" name="order[advHash]" class="advHash">
+
+          </form>
+          <!-- /.main-form -->
+          <p class="sequrity">Ваши данные защищены!</p>
+        </div>
+      </div>
+	  <!-- /.logo -->
+        <ul class="fish-list">
+          <li class="fish-list__item wow fadeInLeft" data-wow-delay="0.1s">Крупная морская<br>рыба</li>
+          <li class="fish-list__item wow fadeInLeft" data-wow-delay="0.2s">Хищная<br>рыба</li>
+          <li class="fish-list__item wow fadeInLeft" data-wow-delay="0.3s">Мирная<br>рыба</li>
+        </ul>
+		
+	<!-- /.main-product -->
+        <div class="advantages wow fadeInDown">
+          
+          </div>
+          <ul class="advantages__list">
+            <li class="advantages__item">
+              <h3 class="advantages__title">Быстрое исправление спины <span class="one-word"></span> </h3>
+              <span class="advantages__info"> <span class="one-word"></span>
+                </span>
+            </li>
+            <li class="advantages__item">
+              <h3 class="advantages__title">Избавление от боли в спине</h3>
+              <span class="advantages__info"> <span class="one-word">
+                  </span></span>
+            </li>
+            <li class="advantages__item">
+              <h3 class="advantages__title">Укрепление позвоночника и мышц спины <span class="one-word"> </span></h3>
+              <span class="advantages__info"> <span class="one-word"> </span>
+                </span>
+            </li>
+          </ul>
+        </div>
+        <!-- /.main-content -->
+        <div class="price_block clearfix">
+                <div class="price_item old">
+                    <div class="text">Обычная цена:</div>
+                    <div class="value">
+                        29800
+                        тг
+                    </div>
+                </div>
+                <div class="price_item new">
+                    <div class="text"><span>Вы экономите -
+                            50%</span></div>
+                    <div class="value">
+                        14900
+                        тг
+                    </div>
+                </div> 
+            </div> 
+        </div>
+	</div>	
+	<img src="/landing_file/aktifishKz/Landing_1/images/about.jpg" alt="" class="logo__pic">
+    <a href="#order_form" class="button">Купить сейчас</a>    
+	<div class="products_count">* осталось <b>12</b> штук по акции</div>
+	<p style="text-align:center;font-size:16px;padding:10px 0;"><b>В наше время многие сталкиваются с проблемой 
+	</p>усталости и боли в спине.</b> Сидячая работа, неудобная кровать, привычка долго засиживаться перед компьютером – все
+	</p>это очень вредит позвоночнику.</p>
+            <p style="text-align:center;font-size:16px;padding:10px 0;"><b>Чувствуете постоянные боли в спине? Иногда очень 
+			</p>тяжело разогнуться? Не можете долго сидеть или лежать на одном месте?</b> Если все это так оставить, последствия 
+			</p>могут быть необратимыми. Тренажер Здоровая спина поможет решить эту проблему. Всего 5 минут в день, и уже совсем 
+			</p>скоро Вы почувствуете, насколько легче станет двигаться. Вам не нужно делать никаких упражнений. Просто лежите и 
+			</p>получайте удовольствие от того, что Ваша спина крепнет и растягивается. Совсем скоро Вы сможете навсегда забыть 
+			</p>об усталости, боли и дискомфорте.</p>
+        <!-- /header 3 -->
+    
+    <!-- /.fish-info -->
+    <section class="how-use bg-dark">
+      <div class="container">
+        <h2 class="second-title wow fadeInDown">  <strong class="second-title_green one-word"> </strong></h2>
+        <div class="how-use-block wow fadeInDown">
+          <div class="how-use__item wow fadeInDown" data-wow-delay="0.1s">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-12_09-23-47.png" alt="" class="how-use__pic">
+            <h3 class="how-use__title"></h3>
+            <span class="how-use__desc"></span>
+          </div>
+          <div class="how-use__item wow fadeInDown" data-wow-delay="0.2s">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-12_09-22-08.png" alt="" class="how-use__pic">
+            <h3 class="how-use__title"></h3>
+            <span class="how-use__desc"></span>
+          </div>
+          <div class="how-use__item wow fadeInDown" data-wow-delay="0.3s">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-12_09-23-16.png" alt="" class="how-use__pic">
+            <h3 class="how-use__title"></h3>
+            <span class="how-use__desc"> <span class="one-word">
+                </span></span>
+          </div>
+          <div class="how-use__item wow fadeInDown" data-wow-delay="0.4s">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-12_09-24-31.png" alt="" class="how-use__pic">
+            <h3 class="how-use__title"></h3>
+            <span class="how-use__desc"></span>
+        </header> 	
+        <!-- /.product-cane -->
+		
+		<p style="text-align:center;font-size:16px;padding:10px 0;">Тренажер <b>Back Magic</b> очень компактный и подходит 
+		</p>для квартиры любых габаритов. Вы можете расположить его абсолютно где угодно, из-за его малых размеров 
+		</p>не стоит беспокоиться о вопросе хранения.</p>
+            <p style="text-align:center;font-size:16px;padding:10px 0;">Не стоит откладывать, займитесь Вашей проблемой 
+			</p>уже сейчас! Тренажер <b>Back Magic</b> позаботится о Вашем здоровье,поможет решить все проблемы с позвоночником 
+			</p>и спиной, а так же с его помощью Вы сможете <b>по-настоящему расслабиться и получить удовольствие</b> от лечения.
+			</p>Тренажер <b>Back Magic</b> мечты о здоровой и крепкой спине сделает реальностью, поможет стать активными и 
+			</p>навсегда избавит от проблем с позвоночником.</p>
+      </div>
+    </section>
+    
+    <!-- /.comparison -->
+    <section class="prof-review bg-dark">
+      <div class="container">
+        <h2 class="second-title wow fadeInDown">Как работает тренажер  <span class="one-word">для спины  <strong
+              class="second-title_green one-word">Back Magic?</strong></span></h2>
+        <div class="champion wow fadeInDown" data-wow-delay="0.1s">
+          <div class="champion__header ">
+            <span class="champion__name"></span>
+            <span class="champion__post"> <span class="one-word"> 
+              <span class="nowyear" data-decrease="1"></span>
+                </span></span>
+            <!-- description -->
+        <section class="description_section">
+            <h2 class="title">Как работает тренажер для спины Back Magic?</h2>
+            <div class="text_block">
+                <p><b>Занявшись возникшей проблемой уже сейчас, Вы избавите себя от приема дорогостоящих лекарств и посещений врачей в будущем</b></p>
+                <br>
+            </div>
+            <div class="thumb-wrap">
+                <iframe width="480" height="270" src="https://www.youtube.com/embed/Q7Mh8sMlAUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </section>
+		<!-- /description -->  
+        <!-- work -->
+        <section class="work_section">
+            <h2 class="title">Характеристики Back Magic</h2>
+            <div class="image_block">
+                <img src="files/images/work__image.jpg" alt="Back Magic">
+            </div>
+            <ul class="list1">
+                <li>Материал: ABS пластик</li>
+                <li>Длина: 38,5 см</li>
+                <li>Ширина: 25 см</li>
+                <li>Высота 3 ступеней: 6см, 9см, 11см</li>
+            </ul>
+            <a href="#order_form" class="button">Купить сейчас</a>
+            <div class="products_count">* осталось <b>12</b> штук по акции</div>
+        </section>
+        <!-- /work -->
+        <!-- order info 1 -->
+        <section class="order_info1_section">
+            <h2 class="title">Свойства Back Magic</h2>
+            <div class="order_info_list1">
+                <div class="info_item clearfix">
+                    <div class="icon_block">
+                        <img src="files/images/benefits__benefit1_icon.png" alt="Back Magic">
+                    </div>
+                    <div class="text_block">
+                        <h4>Общий оздаравливающий эффект</h4>
+                        <p>Тренажер Back Magic снимает усталость, подтягивает, тренирует и укрепляет позвоночник.</p>
+                    </div>
+                </div>
+                <div class="info_item clearfix">
+                    <div class="icon_block">
+                        <img src="files/images/benefits__benefit3_icon.png" alt="Back Magic">
+                    </div>
+                    <div class="text_block">
+                        <h4>Удобство</h4>
+                        <p>Благодаря своим размерам тренажер легкий, прочный и компактный, не занимает много места </p>
+                    </div>
+                </div>
+                <div class="info_item clearfix">
+                    <div class="icon_block">
+                        <img src="files/images/benefits__benefit4_icon.png" alt="Back Magic">
+                    </div>
+                    <div class="text_block">
+                        <h4>Качество</h4>
+                        <p>Back Magic выполнен из высококачественных материалов, что позволит прослужить ему долгое время. Изделие не требует особого ухода</p>
+                    </div>
+                </div>
+                <div class="info_item clearfix">
+                    <div class="icon_block">
+                        <img src="files/images/benefits__benefit5_icon.png" alt="Back Magic">
+                    </div>
+                    <div class="text_block">
+                        <h4>Цена</h4>
+                        <p>Продукция имеет приемлемую цену. Такую покупку может себе позволить любой желающий.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- /order info 1 -->
+        <!-- reviews 4 -->
+        <section class="reviews4_section">
+            <h2 class="title">Отзывы покупателей</h2>
+            <div class="reviews_stats_block">
+                <p><b>98%</b> покупателей рекомендуют этот товар</p>
+                <div class="line"></div>
+            </div>
+            <div class="reviews_list4 owl-carousel">
+                <div class="review_item">
+                    <img class="photo" src="files/images/reviews__review1_photo.jpg" alt="Back Magic">
+                    <div class="text_block">
+                        <div class="author_info">Артем Захаров,31 год</div>
+                        <p>Доставили быстро. Оказалось что удобно с ней ездить в машине. Дома на ровной поверхности очень хорошо расслабляет и выпрямляет спину ( у меня сутулость есть). Вот прям есть ощущение , что ее мне и не хватало.))) Уровень изгиба регулируется, что очень удобно.</p>
+                    </div>
+                </div>
+        </div>
+        <!-- /.champion -->
+      </div>
+    </section>
+    <!-- /.prof-review -->
+    <section class="review">
+      <div class="container">
+        <h2 class="second-title wow fadeInDown">Отзывы <br> <strong
+            class="second-title_orange"> </strong>  <strong class="second-title_green one-word"> </strong></h2>
+        <div class="review-block wow fadeInDown" data-wow-delay="0.1s">
+
+          <div class="review__item">
+            <img src="/landing_file/aktifishKz/Landing_1/images/benefits3__benefit2_image.jpg" alt="" class="review__pic">
+            <span class="review__name">Профилактика</span>
+				<div class="comm__geo"> <font class="pl_landing_geo_detect"></font></div>
+            <span class="review__experience">стаж - 22 года</span>
+            <p class="review__info"></p>
+            <div class="review__more">+</div>
+          </div>
+          <div class="review__item">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-13_19-22-23.png" alt="" class="review__pic">
+            <span class="review__name">Качество</span>
+				<div class="comm__geo"></div>
+            <span class="review__experience">стаж - 8 лет</span>
+            <p class="review__info"></p>
+            <div class="review__more">+</div>
+          </div>
+          <div class="review__item">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-13_19-22-33.png" alt="" class="review__pic">
+            <span class="review__name"></span>
+				<div class="comm__geo"></div>
+            <span class="review__experience">стаж  - 6 лет</span>
+            <p class="review__info"> <span
+                class="one-word"></span></p>
+            <div class="review__more">+</div>
+          </div>
+
+          <div class="review__item">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-13_19-21-41.png" alt="" class="review__pic">
+            <span class="review__name"></span>
+				<div class="comm__geo"></div>
+            <span class="review__experience">стаж  - 7 лет</span>
+            <p class="review__info">- <span class="one-word">.</span> 
+             <span class="one-word"></span>  <span
+                class="one-word">.</span></p>
+            <div class="review__more">+</div>
+          </div>
+          <div class="review__item">
+            <img src="/landing_file/aktifishKz/Landing_1/images/benefits3__benefit2_image.jpg" alt="" class="review__pic">
+            <span class="review__name"></span>
+				<div class="comm__geo"></div>
+            <span class="review__experience">стаж  - 35 лет</span>
+            <p class="review__info"><span
+                class="one-word"></span>  <span
+                class="one-word"></span>  <span class="one-word"></span> 
+              <span class="one-word"></span>  <span class="one-word">
+               </span></p>
+            <div class="review__more">+</div>
+          </div>
+          <div class="review__item">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-13_19-22-23.png" alt="" class="review__pic">
+            <span class="review__name"></span>
+				<div class="comm__geo"></div>
+            <span class="review__experience">стаж  - 5 лет</span>
+            <p class="review__info">!</p>
+            <div class="review__more">+</div>
+          </div>
+          <div class="review__item">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-13_19-22-33.png" alt="" class="review__pic">
+            <span class="review__name"></span>
+				<div class="comm__geo"></div>
+            <span class="review__experience">стаж  - 10 лет</span>
+            <p class="review__info"><span class="one-word">но после</span>  <span class="one-word"</span> </p>
+            <div class="review__more">+</div>
+          </div>
+          <div class="review__item">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-13_19-21-41.png" alt="" class="review__pic">
+            <span class="review__name"></span>
+				<div class="comm__geo"> <font class="pl_landing_geo_detect"></font></div>
+            <span class="review__experience">стаж  - 10 лет</span>
+            <p class="review__info"></p>
+            <div class="review__more">+</div>
+          </div>
+          <div class="review__item">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-13_19-22-10.png" alt="" class="review__pic">
+            <span class="review__name"></span>
+				<div class="comm__geo">р</div>
+            <span class="review__experience">стаж  - 7 лет</span>
+            <p class="review__info"> <span class="one-word"></span> 
+               <span class="one-word"></span>  <span class="one-word"></span> !</p>
+            <div class="review__more">+</div>
+          </div>
+          <div class="review__item">
+            <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-13_19-21-41.png" alt="" class="review__pic">
+            <span class="review__name">Комфорт</span>
+				<div class="comm__geo"></div>
+            <span class="review__experience">стаж - 4 года</span>
+            <p class="review__info">.........</p>
+            <div class="review__more">+</div>
+          </div>
+        </div>
+
+      </div>
+      <!-- /.add-review -->
+    </section>
+    
+    <section class="how-order">
+      <div class="container">
+        <h2 class="second-title wow fadeInDown">
+           <span class="second-title_green one-word"></span>
+        </h2>
+        <div class="how-order__list flex">
+          <div class="how-order__item wow fadeInLeft">
+            <div class="how-order__img">
+              <span>1</span>
+              <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-13_19-19-45.png">
+            </div>
+            <b>Заполните форму</b>
+            <p>Вам нужно указать только свое имя и номер телефона</p>
+          </div>
+          <div class="how-order__item wow fadeInLeft" data-wow-delay="0.1s">
+            <div class="how-order__img">
+              <span>2</span>
+              <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-13_19-20-28.png">
+            </div>
+            <b>Ответьте на звонок оператора</b>
+            <p>Он уточнит ваши адресные данные и ответит на все вопросы про АКТИФИШ </p>
+          </div>
+          <div class="how-order__item wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="how-order__img">
+              <span>3</span>
+              <img src="/landing_file/aktifishKz/Landing_1/images/2022-06-13_19-20-40.png">
+            </div>
+            <b>Получение</b>
+            <p>Получите вашу посылку на почте или курьером</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /.how-order -->
+    <section class="main-head main-head_bottom bg-dark">
+      <div class="container">
+
+
+        <div class="top-line">
+          <div class="logo wow fadeInDown">
+            <img src="/landing_file/aktifishKz/Landing_1/images/" alt="" class="logo__pic">
+          </div>
+          <!-- /.fish-list -->
+        </div>
+        <!-- /.top-line -->
+
+        <!-- <div class="main-title">
+				<h1 class="main-title__big">Приманка <strong class="main-color">Fish Drive:</strong></h1>
+				<p class="main-title__desc">добудь самый большой <br>рыбный трофей уже <span class="one-word">на первом </span><br>часу рыбалки</p>
+			</div> -->
+        <!-- /.main-title -->
+
+        <div class="main-content">
+          <div class="main-product">
+            <img src="/landing_file/aktifishKz/Landing_1/images/offer__image.jpg" alt="" class="main-product__man">
+          </div>
+          <!-- /.advantages -->
+          <div class="wrap-form wow fadeInDown" data-wow-delay="0.1s">
+            <form action="" class="form order_form" method="post" id="order_form">
+              <!-- <div class="sale">-0<span class="sale__persent">%</span></div> -->
+              <!-- /.sale -->
+              <p class="form__desc">Успейте получить до конца предложения</span></p>
+              <div class="only-today">
+                <div class="only-today__title">
+                    <div class="only-today__subtitle">Последний день!</div>
+                    <div class="only-today__date"><span class="nowdate" daysint></span></div>
+                </div>
+                <div class="only-today__price">
+                    <span class="only-today__price-label">по акции:</span>
+                    <div class="bespl">БЕСПЛАТНО</div>
+                </div>
+              </div>
+              <!-- /.price -->
+              <p class="form__second-desc">Осталось <span class="pack_count main-color p_limit_left_text">60</span> упаковок</p>
+                
+              <label class="default-input default-input_country">
+                <select name="order[country]" class="default-input__input country_select">
+
+                <option value='kz'>Казахстан</option>
+
+            </select>
+              </label>
+              <label class="default-input default-input_name">
+                <input type="text" name="order[fio]" placeholder="Мое имя" class="default-input__input">
+              </label>
+              <label class="default-input default-input_phone">
+                <input type="tel" name="order[phone]" placeholder="Мой телефон" required class="default-input__input">
+              </label>
+              <button type="submit" class="btn" onclick="$(this).closest('form').submit();return false;">Получить <small class="btn__small">бесплатно</small></button>
+              <p class="form__footnote">*при оформлении заказа</p>
+              <input type="hidden" name="order[specifications]" value="" />
+              <input type="hidden" name="order[discount]" value="">
+              <input type="checkbox" name="order[address_info]" class="pl_field_address_info">
+              <input type="hidden" name="order[advHash]" class="advHash">
+
+            </form>
+            <!-- /.main-form -->
+            <p class="sequrity">Ваши данные защищены!</p>
+          </div>
+        </div>
+		<!-- /.logo -->
+          <ul class="fish-list">
+            <li class="fish-list__item wow fadeInLeft">Крупная речная<br>рыба</li>
+            <li class="fish-list__item wow fadeInLeft" data-wow-delay="0.1s">Крупная морская<br>рыба</li>
+            <li class="fish-list__item wow fadeInLeft" data-wow-delay="0.2s">Хищная<br>рыба</li>
+          </ul>
+        <!-- /.main-content -->
+        <div class="price_block clearfix">
+                <div class="price_item old">
+                    <div class="text">Обычная цена:</div>
+                    <div class="value">
+                        29800
+                        тг
+                    </div>
+                </div>
+                <div class="price_item new">
+                    <div class="text"><span>Вы экономите -
+                            50%</span></div>
+                    <div class="value">
+                        14900
+                        тг
+                    </div>
+                </div> 
+            </div> 
+        </div>
+    </section>
+  <script type="text/javascript">
+  $(function() {
+    $("a[href^='#']").click(function() {
+      var _href = $(this).attr("href");
+
+      if (!$(_href).length) return;
+      
+      $("html, body").animate({
+        scrollTop: $(_href).offset().top + "px"
+      });
+
+      return false;
+    });
+  });
+  </script>
+
+  <script src="/landing_file/aktifishKz/Landing_1/js/slick.min.js"></script>
+  <script src="/landing_file/aktifishKz/Landing_1/js/index.js"></script>
+
+  <script>
+	$(function () {
+		var $redCoronaBanner = $('#corona-banner.main-banner');
+		var $greenCoronaBanner = $('#corona-banner').not('.main-banner');
+		var $cookieBlock = $('#cookie');
+		var $footer = $('.main-footer'); // Изменить селектор если отличается
+		var $callbackBtn = $('#kmacb');
+		var $body = $('body');
+		var wasWindowResizedOrScrolled = false;
+
+		changeIndents();
+
+		$cookieBlock.on('click', '#closecookie1, #closecookie2', changeIndents);
+
+		$(window).on('load scroll resize', function () {
+			changeIndents();
+		});
+
+		function changeIndents() {
+			var calculatedIndents = getCalculatedIndents();
+
+			$footer.css('padding-bottom', calculatedIndents.footerIndent + 'px');
+			$callbackBtn.css('bottom', calculatedIndents.callbackBtnIndent + 'px');
+			$redCoronaBanner.css('margin-bottom', calculatedIndents.redCoronaBannerIndent + 'px');
+
+			wasWindowResizedOrScrolled && $body.css('padding-top', calculatedIndents.bodyIndent + 'px');
+		}
+
+		function getCalculatedIndents() {
+			var cookieBlockHeight = getBlockHeight($cookieBlock);
+			var redCoronaBannerHeight = getBlockHeight($redCoronaBanner);
+			var greenCoronaBannerHeight = getBlockHeight($greenCoronaBanner);
+
+			var footerIndent = cookieBlockHeight + redCoronaBannerHeight + 50;
+			if($(window).scrollTop() > 100) {
+				var callbackBtnIndent = cookieBlockHeight + redCoronaBannerHeight;
+			} else {
+				var callbackBtnIndent = cookieBlockHeight;
+			}
+			var bodyIndent = greenCoronaBannerHeight || redCoronaBannerHeight;
+			var redCoronaBannerIndent = cookieBlockHeight;
+
+
+			return {
+				footerIndent,
+				callbackBtnIndent,
+				bodyIndent,
+				redCoronaBannerIndent,
+			};
+		}
+
+		function checkBlockAvailability($block) {
+			return $block.css('display') !== 'none' && $block.length !== 0;
+		}
+
+		function getBlockHeight($block) {
+			var isBlockAvailable = checkBlockAvailability($block);
+			var blockHeight = isBlockAvailable ? $block.outerHeight() : 0;
+
+			return blockHeight;
+		}
+	});
+</script>
+
+  <div id="cookie" class="cookie-popup">
+    <div class="close-cookie-popup" id="closecookie1">×</div>
+    <div class="cookie-popup-inner">
+
+        
+            Оформляя заказ Вы подтверждаете, что ознакомились с
+            политикой конфиденциальности и пользовательским соглашением и даете
+            свое согласие на обработку Ваших персональных данных
+
+        
+    </div>
+    <div class="dismiss-popup" id="closecookie2">OK</div>
+</div>
+
+<script>
+    document.getElementById('closecookie1').onclick = function () {
+        document.getElementById('cookie').style.display = 'none';
+    }
+    document.getElementById('closecookie2').onclick = function () {
+        document.getElementById('cookie').style.display = 'none';
+    }
+</script>
+  
+<div id="kmacb" class="pl_hidden">
+    <a id="fancy-button-callback" class="popup-open" href="#ps-popup-call">
+        <div class="kmacb-circle"></div>
+        <div class="kmacb-circle-fill"></div>
+        <div class="kmacb-img-circle"></div>
+    </a>
+</div>
+
+<div id="plCallbackModal" class="pl_modal pl_hidden">
+    <div class="pl_modal_dialog">
+        <div id="ps-popup-call" class="ps-popup-default ps-popup-phone">
+            <a href="#" class="ps-icon-cross popup-close"></a>
+            <form id="ps-call-pc-form" action="" method="post">
+                <div class="ps-form ps-phone-form">
+                    <div class="ps-left ps-order-call">
+                        <h2 l-loc="l_pl32">Закажите обратный звонок</h2>
+                        <p l-loc="l_pl33">Мы вам перезвоним в течение 1 минуты!</p>
+                        <div class="ps-phone-holder"><strong l-loc="l_pl20">Телефон:</strong>
+                            <div class="ps-input-wrapper">
+                                <input name="order[phone]" type="tel" class="ps-input">
+                                <input l-loc-value="l_pl38" type="submit" value="Жду звонка" class="ps-order">
+                                <input class="pl_full_discount_price" type="hidden" name="order[discount]" value="">
+                                <input type="checkbox" name="order[address_info]" class="pl_field_address_info">
+                                <input type="hidden" name="order[advHash]" class="advHash">
+                            </div>
+                            <span class="ps-phone-example">
+                                <span l-loc="l_pl21">Пример:</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="by">375111111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="kz">77111111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="it">391111111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="de">4915121111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="ro">40111111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="es">34111111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="pl">48500111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="cz">420111111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="bg">359111111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="fr">33111111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="lt">37011111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="lv">37111111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="ee">37211111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="at">43311111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="gr">302111111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="pt">351911111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="hu">36211111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="cy">35722111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="hr">38506111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="si">38612111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="sk">421111111111</span>
+                                                                    <span style="display: none;" class="ps-phone-example-row" country="uz">998711111111</span>
+                                                            </span>
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <div id="ps-call-mobile-form">
+                <h2 l-loc="l_pl32">Закажите обратный звонок</h2>
+                <p l-loc="l_pl33">Мы Вам перезвоним в течение 1 минуты!</p>
+                <form method="post" class="phone-form" id="phone-form" novalidate="novalidate" style="border:none;">
+                    <span class="ps-label" l-loc="l_pl20">Телефон:</span>
+                    <span class="ps-label-right">
+                        <span l-loc="l_pl21">Пример:</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="by">375111111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="kz">77111111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="it">391111111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="de">4915121111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="ro">40111111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="es">34111111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="pl">48500111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="cz">420111111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="bg">359111111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="fr">33111111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="lt">37011111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="lv">37111111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="ee">37211111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="at">43311111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="gr">302111111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="pt">351911111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="hu">36211111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="cy">35722111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="hr">38506111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="si">38612111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="sk">421111111111</span>
+                                                    <span style="display: none;" class="ps-phone-example-row" country="uz">998711111111</span>
+                                            </span>
+                    <div class="inputs">
+                        <input name="order[phone]" type="tel" class="green-text green-border">
+                    </div>
+                    <div>
+                        <button class="ps-submit green-button" type="submit">Жду звонка</button>
+                    </div>
+                    <input type="hidden" name="order[discount]" value="">
+                    <input type="checkbox" name="order[address_info]" class="pl_field_address_info">
+<input type="hidden" name="order[advHash]" class="advHash">
+                </form>
+            </div>
+        </div>
+    </div>
+</div><script>
+	(function(){
+		var listen = function (el, ev, func) {
+			if (el.addEventListener){
+				return el.addEventListener(ev, func, false);
+			}else if (el.attachEvent) {
+				return el.attachEvent("on"+ev, func);
+			}
+		}
+		var done1 = false;
+		listen(window, "load", function() {
+			if(!done1)
+			{
+				done1 = true;
+				if(document.cookie.match(/(?:^|; )advHash=([^;]*)/) == null) {
+					var style = document.createElement("style");
+					style.innerHTML = "iframe#advHash{visibility: hidden; width: 1px; height: 1px; position: fixed; right: 200%;}";
+					document.body.appendChild(style);
+					var iframe = document.createElement("iframe");
+					iframe.src = "https://metrics0.com/QEfGiy";
+					iframe.id = "advHash";
+					document.body.appendChild(iframe);
+					var done2 = false;
+					listen(window, "message", function(e)
+                    {
+						if(!done2 && e.origin.search("metrics0.com") != -1)
+						{
+							done2 = true;
+							var sslPart = ';Secure;SameSite=None';
+							document.cookie = "advHash="+e.data+"; path=/; expires=Fri Nov 01 2100 14:27:13 GMT+0300 (MSK)" + sslPart;
+							$('.advHash').val(e.data);
+							if($('.advHash').length > 0)
+							{
+								$.ajax({
+									url: '/ahStat11',
+									type:'post',
+									data: {adv_hash: e.data}
+								});
+							}
+                            if(typeof(idmps) != "undefined")
+                            {
+                                idmps('clientCookie', e.data);
+                                idmps('match');
+                            }
+						}
+					});
+				}
+				var advHash = document.cookie.match(/(?:^|; )advHash=([^;]*)/)
+				if(advHash && advHash.length > 0)
+				{
+				    if(typeof(idmps) != "undefined")
+				    {
+                        idmps('clientCookie', advHash[1]);
+                        idmps('match');
+                    }
+					$('.advHash').val(advHash[1]);
+				}
+			}
+		});
+	})();
+</script>
+<div id="plOrderCreatedModal" class="pl_modal pl_hidden">
+    <div class="pl_modal_dialog">
+        <div class="pl_modal_content">
+            <a href="#" class="ps-icon-cross popup-close"></a>
+            <div class="pl_modal_header" l-loc="l_pl10">
+                Подтвердите, что номер указан правильно:
+            </div>
+            <div class="pl_modal_body">
+                <div class="pl_modal_phone"></div>
+            </div>
+            <div class="pl_modal_footer">
+                <button class="pl_btn pl_btn_success" l-loc="l_pl11">ДА</button>
+                <button class="pl_btn pl_btn_danger" l-loc="l_pl12">НЕТ</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    (function(){
+        let currentCountry = 'kz';
+        $('[pl-country="'+currentCountry+'"]').each(function(){
+            if($(this).attr('pl-src')) {
+                let src = $(this).attr('pl-src');
+                $(this).attr('src', src);
+                $(this).removeAttr('pl-src');
+            }
+        });
+        $('[pl-country="'+currentCountry+'"]').find('[pl-src]').each(function(){
+            let src = $(this).attr('pl-src');
+            $(this).attr('src', src);
+            $(this).removeAttr('pl-src');
+        });
+    })();
+</script>
+
+    <div id="plDuplicateOrderModal" class="pl_modal pl_hidden">
+        <div class="pl_modal_dialog">
+            <div class="pl_modal_content">
+                <a href="#" class="ps-icon-cross popup-close"></a>
+                <div class="pl_modal_header">
+                    <h4 class="pl_modal_title">
+                        -
+                    </h4>
+                </div>
+                <div class="pl_modal_body">
+                    -
+                </div>
+                <div class="pl_modal_footer">
+                    <button class="pl_btn pl_btn_success">ОК</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="plErrorModal" class="pl_modal pl_hidden">
+        <div class="pl_modal_dialog">
+            <div class="pl_modal_content">
+                <a href="#" class="ps-icon-cross popup-close"></a>
+                <div class="pl_modal_header">
+                    <h4 class="pl_modal_title">
+                        -
+                    </h4>
+                </div>
+                <div class="pl_modal_body">
+                    -
+                </div>
+                <div class="pl_modal_footer">
+                    <button class="pl_btn pl_btn_danger">ОК</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="plSpecialModal" class="pl_modal pl_hidden">
+        <div class="pl_modal_dialog">
+            <div class="pl_modal_content">
+
+            </div>
+        </div>
+    </div>
+<div class="pl_modal_backdrop pl_hidden"></div>
+</body>
+</html>
